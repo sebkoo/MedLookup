@@ -9,5 +9,6 @@ let package = Package(
     ],
     targets: [
         .target(name: "MedLookupKit"),
+        .testTarget(name: "MedLookupKitTests", dependencies: ["MedLookupKit"]),
     ]
 )

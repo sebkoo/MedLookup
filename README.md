@@ -72,11 +72,11 @@ Then open the package in **Xcode** to run the SwiftUI app on the iOS Simulator (
 ## 🗺 Roadmap (built in small, reviewable commits)
 
 - [x] **chore:** initialize the MedLookupKit Swift package
-- [ ] **feat:** raw openFDA wire models — the honest shape
-- [ ] **feat:** `Medication` domain type
-- [ ] **feat:** normalize boundary — name fallbacks, joined paragraphs, junk-row dropping
-- [ ] **feat:** async `OpenFDAClient` behind a `MedicationSearching` protocol
-- [ ] **test:** unit tests for the boundary
+- [x] **feat:** raw openFDA wire models — the honest shape
+- [x] **feat:** `Medication` domain type
+- [x] **feat:** normalize boundary — name fallbacks, joined paragraphs, junk-row dropping
+- [x] **feat:** async `OpenFDAClient` behind a `MedicationSearching` protocol
+- [x] **test:** unit tests for the boundary
 - [ ] **feat:** search screen (SwiftUI + MVVM view model) with loading / empty / error states
 - [ ] **feat:** medication detail screen
 - [ ] **test:** view-model tests with a mocked `MedicationSearching`
