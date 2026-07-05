@@ -10,6 +10,8 @@ A SwiftUI iOS app built on the free, key-less [openFDA](https://open.fda.gov/api
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 > 🎯 Built to demonstrate production-quality iOS: a clean data boundary, async networking, testable architecture, and accessible SwiftUI — using **real public health data**.
+>
+> ⚙️ **Workflow transparency:** built with an AI-assisted workflow (Claude as pair programmer — see the commit trailers); the architecture decisions, code review, and final call on every line are mine.
 
 ---
 
